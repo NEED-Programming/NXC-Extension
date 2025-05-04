@@ -1,5 +1,6 @@
 # NXC-Extension
 
+Staging
 ```
 Save Python script to:
 /home/kali/.nxc/modules/startup_persist.py
