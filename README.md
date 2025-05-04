@@ -1,6 +1,7 @@
 # NXC-Extension
 
 ```
+Save Python script to:
 /home/kali/.nxc/modules/startup_persist.py
 /usr/lib/python3/dist-packages/NetExec/nxc/modules/startup_persist.py
 
